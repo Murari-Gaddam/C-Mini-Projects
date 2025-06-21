@@ -1,5 +1,5 @@
 // RGB to CMYK coulour format
-// Author:FTSunny Date:15/06/2025
+// Author:G.Murari Date:15/06/2025
 #include <stdio.h>
 
 int main()

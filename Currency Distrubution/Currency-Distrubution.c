@@ -1,4 +1,4 @@
-// currency distrubution(into the least count of notes and coins)
+// currency distrubution
 // Author:G.Murari Date:20/05/2025
 #include <stdio.h>
 
