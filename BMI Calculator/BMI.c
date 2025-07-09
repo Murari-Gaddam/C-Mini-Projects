@@ -20,7 +20,7 @@ int main()
         printf("The person is Ideal.Your bmi is %f", bmi);
     else if (bmi > 25 && bmi < 29.9)
         printf("The person is Overweight.Your bmi is %f", bmi);
-    else if (bmi > 30 && bmi < 30.9)
+    else if (bmi > 30 && bmi < 39.9)
         printf("The person is Obese.Your bmi is %f", bmi);
     else if (bmi >= 40)
         printf("The person is Morbidly Obese.Your bmi is %f", bmi);
